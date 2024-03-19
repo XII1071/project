@@ -7,7 +7,7 @@
 
 <div>
   <div align="center">
-  <img src="https://img.shields.io/badge/T1 스토리보기-C28F2C?logo=leagueoflegends&logoColor=white&style=for-the-badge" height="40" alt="leagueoflegend logo"/>
+  <a href="https://xii1071.github.io/project/"><img src="https://img.shields.io/badge/T1 스토리보기-C28F2C?logo=leagueoflegends&logoColor=white&style=for-the-badge" height="40" alt="leagueoflegend logo"/></a>
   </div>
 </div>
   
